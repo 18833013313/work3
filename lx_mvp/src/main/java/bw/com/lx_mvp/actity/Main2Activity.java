@@ -54,6 +54,7 @@ public class Main2Activity extends AppCompatActivity implements IloginView {
     @Override
     public void success(UserEntity userEntity) {
         Toast.makeText(this,userEntity.msg+"",Toast.LENGTH_SHORT).show();
+
     }
 
     @Override
