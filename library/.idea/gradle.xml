@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../lx_pulltorefresh_1" />
+            <option value="$PROJECT_DIR$/../lx_tablatout_1" />
+            <option value="$PROJECT_DIR$/../lx_wxlb_1" />
+            <option value="$PROJECT_DIR$/../lx_zk2" />
+            <option value="$PROJECT_DIR$/../lx_zk3" />
+            <option value="$PROJECT_DIR$/../lx_zk3_1" />
+            <option value="$PROJECT_DIR$/../rk_day12" />
+            <option value="$PROJECT_DIR$/../rk_day13" />
+            <option value="$PROJECT_DIR$/../rk_day14" />
+            <option value="$PROJECT_DIR$/../rk_day15" />
+            <option value="$PROJECT_DIR$/../tablelayout" />
+            <option value="$PROJECT_DIR$/../xlistviewlib" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
