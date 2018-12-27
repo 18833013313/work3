@@ -25,7 +25,6 @@ public class Main2Activity extends AppCompatActivity implements IloginView {
 
     private void initData() {
         presenter = new LoginPresenter(this);
-
     }
     public void login(View view){
         HashMap<String,String> params = new HashMap<>();
